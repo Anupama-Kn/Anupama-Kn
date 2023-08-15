@@ -1,5 +1,4 @@
-[![MasterHead]( https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif)]( https://anupama-kn.github.io)
-<h1 align="center"> 👋 Hi, I'm Anupama  </h1>
+<h1 align="center"> 👋 Hi, I'm Anupama </h1>
 <h3 align="center">A Data Science Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif">
 
@@ -11,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 👨💻 All of my projects are available at [portfolio.github.io](https://anupama-kn.github.io)
+- 👨💻 All of my projects are available at [website link](https://anupama-kn.github.io)
 
 
 <h3 align="left">Connect with me:</h3>
